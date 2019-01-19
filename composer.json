@@ -1,0 +1,17 @@
+{
+  "name": "dragonflyrg.com/talentlms",
+  "description": "TalentLMS API in composer form.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lee Jones",
+      "email": "lee@dragonflyrg.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}
